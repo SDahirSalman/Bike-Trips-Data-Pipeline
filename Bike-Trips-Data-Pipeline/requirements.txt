@@ -1,0 +1,6 @@
+boto3
+pyarrow
+psycopg2-binary
+botocore
+dbt-core
+dbt-redshift 
